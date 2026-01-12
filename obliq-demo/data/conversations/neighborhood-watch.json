@@ -1,0 +1,228 @@
+{
+  "chat_id": "neighborhood-watch",
+  "is_group": true,
+  "messages": [
+    {
+      "sender": "helen-neighbor",
+      "content": "Hi everyone! Monthly neighborhood update",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "Block party is scheduled for March 25th!",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 2
+    },
+    {
+      "sender": "dave-neighbor",
+      "content": "Great! I'll bring the grill again",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "me",
+      "content": "We might not be here actually - we're selling the house",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "Oh no! We'll miss you guys!",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 28
+    },
+    {
+      "sender": "karen-neighbor",
+      "content": "That's sad news. You've been great neighbors",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "We'll miss this neighborhood too ❤️",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "dave-neighbor",
+      "content": "Heads up - saw a suspicious van on Oak Street around 11pm last night",
+      "offset_days": -5,
+      "offset_hours": 7,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "What did it look like?",
+      "offset_days": -5,
+      "offset_hours": 7,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "dave-neighbor",
+      "content": "White van, no markings. Drove through slowly twice",
+      "offset_days": -5,
+      "offset_hours": 7,
+      "offset_minutes": 18
+    },
+    {
+      "sender": "karen-neighbor",
+      "content": "I'll keep an eye out. Thanks for the heads up",
+      "offset_days": -5,
+      "offset_hours": 7,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "me",
+      "content": "Thanks Dave. We'll be vigilant",
+      "offset_days": -5,
+      "offset_hours": 7,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "Love our little street 🏘️",
+      "offset_days": -4,
+      "offset_hours": 16,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/neighbor_street.jpg",
+      "media_caption": "Our street"
+    },
+    {
+      "sender": "dave-neighbor",
+      "content": "Block party was a success!",
+      "offset_days": -3,
+      "offset_hours": 14,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/neighbor_event.jpg",
+      "media_caption": "Block party"
+    },
+    {
+      "sender": "karen-neighbor",
+      "content": "Anyone missing a tabby cat? Found one in my yard",
+      "offset_days": -3,
+      "offset_hours": 16,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "Not ours. Maybe the new family on Elm?",
+      "offset_days": -3,
+      "offset_hours": 16,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "dave-neighbor",
+      "content": "I'll check with them",
+      "offset_days": -3,
+      "offset_hours": 16,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "dave-neighbor",
+      "content": "Yes! It's theirs. They're coming to get it",
+      "offset_days": -3,
+      "offset_hours": 16,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "karen-neighbor",
+      "content": "Great! Cat is safe and fed 😸",
+      "offset_days": -3,
+      "offset_hours": 16,
+      "offset_minutes": 48
+    },
+    {
+      "sender": "karen-neighbor",
+      "content": "Has anyone seen this dog? Please share!",
+      "offset_days": -2,
+      "offset_hours": 10,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/neighbor_lost.jpg",
+      "media_caption": "Lost dog"
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "Heads up - water main work next week",
+      "offset_days": -1,
+      "offset_hours": 9,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/neighbor_construction.jpg",
+      "media_caption": "Construction notice"
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "Update on the block party - we need volunteers!",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "Setup crew, food committee, cleanup...",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 2
+    },
+    {
+      "sender": "dave-neighbor",
+      "content": "I'm on grill duty as always",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "karen-neighbor",
+      "content": "I can handle decorations",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "We can help with setup! If we're still here 😅",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "helen-neighbor",
+      "content": "Any update on the house sale?",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Yes! We accepted an offer. Closing March 18th",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "karen-neighbor",
+      "content": "Oh that's right before the party! Come anyway!",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "We'll try to make it! One last hurrah ❤️",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 50
+    }
+  ]
+}

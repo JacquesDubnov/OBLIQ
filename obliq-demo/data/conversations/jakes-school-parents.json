@@ -1,0 +1,186 @@
+{
+  "chat_id": "jakes-school-parents",
+  "is_group": true,
+  "messages": [
+    {
+      "sender": "lisa-parent",
+      "content": "Hi everyone! Just a reminder - bake sale is this Friday",
+      "offset_days": -6,
+      "offset_hours": 10,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "tom-parent",
+      "content": "We're bringing brownies 🍫",
+      "offset_days": -6,
+      "offset_hours": 10,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "I can make my lemon bars!",
+      "offset_days": -6,
+      "offset_hours": 10,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "me",
+      "content": "We'll bring cookies",
+      "offset_days": -6,
+      "offset_hours": 10,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "lisa-parent",
+      "content": "Perfect! We need volunteers from 3-5pm. Anyone available?",
+      "offset_days": -6,
+      "offset_hours": 10,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "I can do 3-4pm",
+      "offset_days": -6,
+      "offset_hours": 10,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "tom-parent",
+      "content": "I'll take 4-5pm",
+      "offset_days": -6,
+      "offset_hours": 10,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "lisa-parent",
+      "content": "Don't forget - Fall Festival this Saturday!",
+      "offset_days": -4,
+      "offset_hours": 9,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/school_flyer.jpg",
+      "media_caption": "Event flyer"
+    },
+    {
+      "sender": "lisa-parent",
+      "content": "Soccer game Saturday at Lincoln Park. Who's driving?",
+      "offset_days": -4,
+      "offset_hours": 18,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "We can take Jake and Tom",
+      "offset_days": -4,
+      "offset_hours": 18,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "tom-parent",
+      "content": "Thanks Sarah! I'll pick them up after",
+      "offset_days": -4,
+      "offset_hours": 18,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "me",
+      "content": "Game starts at 3pm right?",
+      "offset_days": -4,
+      "offset_hours": 18,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "lisa-parent",
+      "content": "Yes, 3pm. Coach wants them there by 2:30",
+      "offset_days": -4,
+      "offset_hours": 18,
+      "offset_minutes": 28
+    },
+    {
+      "sender": "tom-parent",
+      "content": "Class photo day was so fun!",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/school_kids.jpg",
+      "media_caption": "Class photo"
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "New gymnasium construction starting",
+      "offset_days": -2,
+      "offset_hours": 10,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/school_building.jpg",
+      "media_caption": "School building"
+    },
+    {
+      "sender": "lisa-parent",
+      "content": "Thanks everyone who contributed!",
+      "offset_days": -1,
+      "offset_hours": 14,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/school_fundraiser.jpg",
+      "media_caption": "Bake sale"
+    },
+    {
+      "sender": "tom-parent",
+      "content": "Great game today!! 3-2 win 🎉",
+      "offset_days": -1,
+      "offset_hours": 17,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "lisa-parent",
+      "content": "The kids played so well!",
+      "offset_days": -1,
+      "offset_hours": 17,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Jake got an assist! So proud",
+      "offset_days": -1,
+      "offset_hours": 17,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "All the practice is paying off!",
+      "offset_days": -1,
+      "offset_hours": 17,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "tom-parent",
+      "content": "Ice cream celebration? 🍦",
+      "offset_days": -1,
+      "offset_hours": 17,
+      "offset_minutes": 50
+    },
+    {
+      "sender": "lisa-parent",
+      "content": "Great idea! Coldstone in 20?",
+      "offset_days": -1,
+      "offset_hours": 17,
+      "offset_minutes": 52
+    },
+    {
+      "sender": "me",
+      "content": "We're in!",
+      "offset_days": -1,
+      "offset_hours": 17,
+      "offset_minutes": 55
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "See you there! 🙌",
+      "offset_days": -1,
+      "offset_hours": 17,
+      "offset_minutes": 58
+    }
+  ]
+}

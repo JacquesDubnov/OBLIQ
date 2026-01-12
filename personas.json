@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "totalPersonas": 20,
+    "individualChats": 14,
+    "groupChats": 6,
+    "description": "Complete persona definitions for OBLIQ Demo Simulator"
+  },
+  
+  "individuals": [
+    {
+      "id": "sarah-chen",
+      "name": "Sarah",
+      "fullName": "Sarah Chen",
+      "phone": "+1 (415) 555-0142",
+      "about": "Living life one day at a time ✨",
+      "relationship": "wife",
+      "language": "en",
+      "timezone": "Asia/Bangkok",
+      "personality": "Warm, organized, sometimes anxious about big decisions. Uses emojis moderately. Practical and supportive wife who balances career and family. Addresses husband affectionately.",
+      "currentTopics": ["house sale", "son Jake's school", "family schedules", "home logistics"],
+      "imagePrompt": "Professional headshot of Asian woman, 38 years old, warm genuine smile, dark shoulder-length hair, natural lighting, soft white background, wearing casual elegant blouse, high quality portrait photography",
+      "avatarFallback": "SC"
+    },
+    {
+      "id": "michael-torres",
+      "name": "Michael Torres",
+      "fullName": "Michael Torres",
+      "phone": "+1 (415) 555-0198",
+      "about": "Your trusted real estate partner 🏠",
+      "relationship": "real estate agent",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Professional, optimistic, responsive. Uses formal but friendly tone. Always updates clients promptly. Experienced negotiator who stays calm under pressure.",
+      "currentTopics": ["house listing", "buyer negotiations", "market conditions", "showing schedules"],
+      "imagePrompt": "Professional headshot of Hispanic man, 45 years old, confident warm smile, business attire dark suit, modern office background blurred, professional lighting, realtor professional photo",
+      "avatarFallback": "MT"
+    },
+    {
+      "id": "david-kim",
+      "name": "David Kim",
+      "fullName": "David Kim",
+      "phone": "+1 (510) 555-0234",
+      "about": "Software engineer | House hunting 🏡",
+      "relationship": "potential house buyer",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Analytical, asks detailed questions, cautious with big purchases. Polite and direct. Tech professional who values efficiency. Serious buyer but careful with finances.",
+      "currentTopics": ["house viewing", "price negotiation", "neighborhood questions", "inspection concerns"],
+      "imagePrompt": "Casual headshot of Korean-American man, 35 years old, wearing glasses, friendly approachable expression, casual smart attire, natural outdoor lighting, authentic portrait",
+      "avatarFallback": "DK"
+    },
+    {
+      "id": "emily-watson",
+      "name": "Emily Watson",
+      "fullName": "Emily Watson",
+      "phone": "+1 (650) 555-0156",
+      "about": "Marketing Director | Mom of 2",
+      "relationship": "potential house buyer",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Decisive, asks about schools and family-friendly features. Balances assertiveness with politeness. Career-focused mom who knows what she wants.",
+      "currentTopics": ["house features", "school district", "counteroffer", "closing timeline"],
+      "imagePrompt": "Professional headshot of Caucasian woman, 42 years old, blonde hair shoulder length, business casual attire, warm confident smile, soft studio lighting, corporate portrait style",
+      "avatarFallback": "EW"
+    },
+    {
+      "id": "robert-hansen",
+      "name": "Robert Hansen",
+      "fullName": "Robert Hansen",
+      "phone": "+1 (212) 555-0187",
+      "about": "Partner at Hansen & Associates",
+      "relationship": "business partner",
+      "language": "en",
+      "timezone": "America/New_York",
+      "personality": "Direct, time-conscious, professional. Often mentions being busy but values the partnership. Strategic thinker who appreciates efficiency. Occasionally jokes about timezone differences.",
+      "currentTopics": ["Q3 projections", "board meetings", "Zoom scheduling across timezones", "contract reviews"],
+      "imagePrompt": "Executive portrait of Caucasian man, 52 years old, distinguished gray hair, wearing dark suit with tie, serious confident professional expression, corporate office background, high-end business photography",
+      "avatarFallback": "RH"
+    },
+    {
+      "id": "yuki-tanaka",
+      "name": "Yuki Tanaka",
+      "fullName": "田中 雪 (Yuki Tanaka)",
+      "phone": "+81 90-1234-5678",
+      "about": "東京オフィス | プロジェクトマネージャー",
+      "relationship": "Japanese business colleague",
+      "language": "ja",
+      "timezone": "Asia/Tokyo",
+      "personality": "Formal, respectful, uses proper Japanese business etiquette (keigo). Efficient communicator who is thorough with details. Always uses appropriate honorifics.",
+      "currentTopics": ["project deadlines", "presentation materials", "client meetings", "budget reviews"],
+      "imagePrompt": "Professional headshot of Japanese businessman, 40 years old, neat well-groomed appearance, subtle confident smile, wearing white dress shirt, clean modern office background, Japanese corporate portrait style",
+      "avatarFallback": "YT"
+    },
+    {
+      "id": "pierre-dubois",
+      "name": "Pierre Dubois",
+      "fullName": "Pierre Dubois",
+      "phone": "+33 6 12 34 56 78",
+      "about": "Directeur Commercial | Paris",
+      "relationship": "French business client",
+      "language": "fr",
+      "timezone": "Europe/Paris",
+      "personality": "Charming, sophisticated, values relationship building. Uses polite French expressions. Appreciates quality and attention to detail. Sometimes mixes in English phrases.",
+      "currentTopics": ["business proposals", "delivery timelines", "partnership terms", "meeting schedules"],
+      "imagePrompt": "Elegant portrait of French professional man, 48 years old, stylish appearance with neat beard, sophisticated confident expression, wearing quality dark blazer, Parisian office background, European business style photography",
+      "avatarFallback": "PD"
+    },
+    {
+      "id": "mom",
+      "name": "Mom",
+      "fullName": "Linda Chen",
+      "phone": "+1 (925) 555-0123",
+      "about": "Proud grandma 👵 | Retired teacher",
+      "relationship": "mother",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Loving, sometimes worries too much, sends recipes and health advice. Uses simple language and lots of love expressions. Asks about grandchildren frequently. Occasional typos.",
+      "currentTopics": ["family health", "Jake's activities", "recipes", "retirement life", "when are you visiting"],
+      "imagePrompt": "Warm portrait of elderly Asian woman, 68 years old, kind gentle eyes, silver gray hair neatly styled, warm grandmotherly smile, wearing comfortable cardigan, soft natural home lighting, authentic family portrait",
+      "avatarFallback": "M"
+    },
+    {
+      "id": "jake-son",
+      "name": "Jake",
+      "fullName": "Jake Chen",
+      "phone": "+1 (415) 555-0199",
+      "about": "⚽ Soccer | 🎮 Gaming | 📚 10th Grade",
+      "relationship": "son",
+      "language": "en",
+      "timezone": "Asia/Bangkok",
+      "personality": "Typical teenager - brief messages, uses slang and abbreviations, asks for things. Loves gaming and soccer. Occasionally sweet when he needs something. Eye-roll energy.",
+      "currentTopics": ["homework help", "ride requests", "weekend plans", "gaming", "allowance", "soccer practice"],
+      "imagePrompt": "School portrait style photo of teenage Eurasian boy, 15 years old, casual friendly smile, wearing casual t-shirt, clean simple background, natural authentic teenager portrait",
+      "avatarFallback": "J"
+    },
+    {
+      "id": "dr-amanda-foster",
+      "name": "Dr. Amanda Foster",
+      "fullName": "Dr. Amanda Foster",
+      "phone": "+1 (415) 555-0167",
+      "about": "Internal Medicine | Bay Medical Center",
+      "relationship": "doctor",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Professional, clear communicator, reassuring but factual. Uses medical terms but explains them. Prompt with appointment reminders. Compassionate bedside manner even via text.",
+      "currentTopics": ["annual checkup results", "prescription refills", "appointment scheduling", "health advice"],
+      "imagePrompt": "Professional medical portrait of female doctor, 45 years old, confident caring expression, wearing white lab coat with stethoscope, professional medical office background, healthcare professional photography",
+      "avatarFallback": "AF"
+    },
+    {
+      "id": "chris-miller",
+      "name": "Chris",
+      "fullName": "Chris Miller",
+      "phone": "+1 (415) 555-0145",
+      "about": "Living for the weekend 🏈🍺",
+      "relationship": "best friend",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Casual, jokes around a lot, sports enthusiast. Uses bro language and inside jokes. Reliable friend who's always down for activities. Teases but supportive.",
+      "currentTopics": ["NFL games", "weekend plans", "golf", "guy humor", "catching up over beers"],
+      "imagePrompt": "Casual outdoor portrait of Caucasian man, 40 years old, friendly beard, genuine laughing expression, wearing casual weekend clothes, natural outdoor setting, authentic friendship portrait",
+      "avatarFallback": "CM"
+    },
+    {
+      "id": "jennifer-lee",
+      "name": "Jennifer Lee",
+      "fullName": "Jennifer Lee",
+      "phone": "+1 (415) 555-0178",
+      "about": "Senior PM @ TechCorp | ☕ Coffee addict",
+      "relationship": "work colleague",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Efficient, friendly colleague. Balances professionalism with casual workplace friendliness. Organized, sometimes stressed about deadlines. Supportive team player.",
+      "currentTopics": ["project deadlines", "team meetings", "work updates", "office gossip", "remote work"],
+      "imagePrompt": "Professional office portrait of Asian-American woman, 35 years old, friendly professional smile, business casual attire, modern office background, corporate team photo style",
+      "avatarFallback": "JL"
+    },
+    {
+      "id": "alex-thompson",
+      "name": "Alex",
+      "fullName": "Alex Thompson",
+      "phone": "+1 (415) 555-0134",
+      "about": "Fitness Coach | Early bird 🌅",
+      "relationship": "gym buddy",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Enthusiastic about fitness, motivational, uses gym lingo. Early morning person. Encouraging but not preachy. Shares workout tips and healthy lifestyle content.",
+      "currentTopics": ["workout schedules", "fitness tips", "gym sessions", "nutrition", "morning runs"],
+      "imagePrompt": "Athletic portrait of fit Caucasian man, 32 years old, energetic confident smile, wearing gym athletic wear, gym or outdoor fitness setting, healthy lifestyle photography",
+      "avatarFallback": "AT"
+    },
+    {
+      "id": "maria-garcia",
+      "name": "Maria",
+      "fullName": "Maria Garcia",
+      "phone": "+1 (415) 555-0156",
+      "about": "Helping families since 2010 ✨",
+      "relationship": "housekeeper",
+      "language": "en",
+      "timezone": "America/Los_Angeles",
+      "personality": "Reliable, warm, professional. Clear communicator about schedules. Takes pride in her work. Occasional English as second language patterns. Trustworthy and dependable.",
+      "currentTopics": ["cleaning schedule", "house tasks", "supplies needed", "key arrangements"],
+      "imagePrompt": "Warm professional portrait of Latina woman, 50 years old, kind dependable expression, neat professional appearance, warm smile, simple clean background, authentic working professional portrait",
+      "avatarFallback": "MG"
+    }
+  ],
+  
+  "groups": [
+    {
+      "id": "house-sale-team",
+      "name": "House Sale Team 🏠",
+      "description": "Coordinating the sale",
+      "members": ["me", "sarah-chen", "michael-torres"],
+      "memberDetails": {
+        "sarah-chen": { "isAdmin": true },
+        "michael-torres": { "isAdmin": false }
+      },
+      "currentTopics": ["sale updates", "document sharing", "offer discussions", "showing coordination"],
+      "imagePrompt": "Simple house icon with sale sign, modern minimal design",
+      "avatarFallback": "HS"
+    },
+    {
+      "id": "family-group",
+      "name": "Chen Family ❤️",
+      "description": "Family updates and coordination",
+      "members": ["me", "sarah-chen", "jake-son", "mom"],
+      "memberDetails": {
+        "sarah-chen": { "isAdmin": true },
+        "jake-son": { "isAdmin": false },
+        "mom": { "isAdmin": false }
+      },
+      "currentTopics": ["family events", "photos", "weekend plans", "health updates"],
+      "imagePrompt": "Warm family icon, heart shape, simple modern design",
+      "avatarFallback": "CF"
+    },
+    {
+      "id": "work-project-alpha",
+      "name": "Project Alpha",
+      "description": "Q3 Launch Team",
+      "members": ["me", "robert-hansen", "jennifer-lee", "team-member-1", "team-member-2", "team-member-3"],
+      "memberDetails": {
+        "robert-hansen": { "isAdmin": true },
+        "jennifer-lee": { "isAdmin": false },
+        "team-member-1": { "name": "Mike Stevens", "isAdmin": false },
+        "team-member-2": { "name": "Amanda Chen", "isAdmin": false },
+        "team-member-3": { "name": "David Park", "isAdmin": false }
+      },
+      "currentTopics": ["project deadlines", "deliverables", "status updates", "blockers"],
+      "imagePrompt": "Professional project icon, abstract geometric design, corporate colors",
+      "avatarFallback": "PA"
+    },
+    {
+      "id": "jake-school-parents",
+      "name": "Lincoln High Parents",
+      "description": "Grade 10 Parent Group",
+      "members": ["me", "sarah-chen", "parent-1", "parent-2", "parent-3", "parent-4", "parent-5", "parent-6", "parent-7", "parent-8"],
+      "memberDetails": {
+        "sarah-chen": { "isAdmin": true },
+        "parent-1": { "name": "Lisa Wong", "isAdmin": true },
+        "parent-2": { "name": "Mark Johnson", "isAdmin": false },
+        "parent-3": { "name": "Patricia Smith", "isAdmin": false },
+        "parent-4": { "name": "Robert Davis", "isAdmin": false },
+        "parent-5": { "name": "Jennifer Martinez", "isAdmin": false },
+        "parent-6": { "name": "William Brown", "isAdmin": false },
+        "parent-7": { "name": "Elizabeth Taylor", "isAdmin": false },
+        "parent-8": { "name": "James Anderson", "isAdmin": false }
+      },
+      "currentTopics": ["school events", "homework questions", "teacher updates", "fundraising"],
+      "imagePrompt": "School education icon, graduation cap, simple design",
+      "avatarFallback": "LP"
+    },
+    {
+      "id": "weekend-warriors",
+      "name": "Weekend Warriors 🏌️",
+      "description": "Sports and hangouts",
+      "members": ["me", "chris-miller", "alex-thompson", "friend-1", "friend-2"],
+      "memberDetails": {
+        "chris-miller": { "isAdmin": true },
+        "alex-thompson": { "isAdmin": false },
+        "friend-1": { "name": "Tom Richards", "isAdmin": false },
+        "friend-2": { "name": "Steve Martinez", "isAdmin": false }
+      },
+      "currentTopics": ["golf tee times", "game watching", "hiking plans", "guy banter"],
+      "imagePrompt": "Sports recreational icon, golf ball and clubs, casual fun design",
+      "avatarFallback": "WW"
+    },
+    {
+      "id": "neighborhood-watch",
+      "name": "Oak Street Neighbors",
+      "description": "Community updates",
+      "members": ["me", "neighbor-1", "neighbor-2", "neighbor-3", "neighbor-4", "neighbor-5", "neighbor-6", "neighbor-7", "neighbor-8", "neighbor-9", "neighbor-10"],
+      "memberDetails": {
+        "neighbor-1": { "name": "Tom Bradley", "isAdmin": true },
+        "neighbor-2": { "name": "Susan Miller", "isAdmin": false },
+        "neighbor-3": { "name": "John Davis", "isAdmin": false },
+        "neighbor-4": { "name": "Mary Johnson", "isAdmin": false },
+        "neighbor-5": { "name": "Bob Wilson", "isAdmin": false },
+        "neighbor-6": { "name": "Karen White", "isAdmin": false },
+        "neighbor-7": { "name": "Dave Brown", "isAdmin": false },
+        "neighbor-8": { "name": "Linda Taylor", "isAdmin": false },
+        "neighbor-9": { "name": "Jim Clark", "isAdmin": false },
+        "neighbor-10": { "name": "Nancy Lee", "isAdmin": false }
+      },
+      "currentTopics": ["package alerts", "suspicious activity", "community events", "local services"],
+      "imagePrompt": "Neighborhood community icon, houses in circle, friendly design",
+      "avatarFallback": "OS"
+    }
+  ],
+  
+  "conversationGuidelines": {
+    "messageDistribution": {
+      "text": 0.70,
+      "images": 0.15,
+      "calls": 0.15
+    },
+    "typicalResponseTime": {
+      "spouse": "1-3 minutes",
+      "family": "5-30 minutes",
+      "friends": "10-60 minutes",
+      "business": "30 minutes - 2 hours",
+      "professional": "1-4 hours"
+    },
+    "messageLength": {
+      "casual": "1-2 sentences",
+      "businessBrief": "1-3 sentences",
+      "detailed": "3-5 sentences",
+      "rare": "paragraph"
+    }
+  }
+}

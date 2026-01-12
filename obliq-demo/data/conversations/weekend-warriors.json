@@ -1,0 +1,235 @@
+{
+  "chat_id": "weekend-warriors",
+  "is_group": true,
+  "messages": [
+    {
+      "sender": "chris-miller",
+      "content": "Alright boys, game this Sunday. Who's in?",
+      "offset_days": -6,
+      "offset_hours": 12,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "alex-thompson",
+      "content": "I'm in! 💪",
+      "offset_days": -6,
+      "offset_hours": 12,
+      "offset_minutes": 10
+    },
+    {
+      "sender": "me",
+      "content": "Count me in",
+      "offset_days": -6,
+      "offset_hours": 12,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "mike-weekend",
+      "content": "What time?",
+      "offset_days": -6,
+      "offset_hours": 12,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "chris-miller",
+      "content": "4pm at Wilson Field",
+      "offset_days": -6,
+      "offset_hours": 12,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "mike-weekend",
+      "content": "I'll be there!",
+      "offset_days": -6,
+      "offset_hours": 12,
+      "offset_minutes": 28
+    },
+    {
+      "sender": "alex-thompson",
+      "content": "I'm bringing my new football 🏈",
+      "offset_days": -6,
+      "offset_hours": 12,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "chris-miller",
+      "content": "Need 2 more players. Anyone know someone?",
+      "offset_days": -5,
+      "offset_hours": 14,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "I can ask my neighbor Dave",
+      "offset_days": -5,
+      "offset_hours": 14,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "alex-thompson",
+      "content": "My gym buddy Marcus might be down",
+      "offset_days": -5,
+      "offset_hours": 14,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "chris-miller",
+      "content": "Perfect! Let us know",
+      "offset_days": -5,
+      "offset_hours": 14,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "me",
+      "content": "Dave is in 👍",
+      "offset_days": -5,
+      "offset_hours": 15,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "alex-thompson",
+      "content": "Marcus too! We're set",
+      "offset_days": -5,
+      "offset_hours": 15,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "chris-miller",
+      "content": "Summit selfie! 🏔️",
+      "offset_days": -4,
+      "offset_hours": 12,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/warriors_hike.jpg",
+      "media_caption": "Mountain view"
+    },
+    {
+      "sender": "mike-weekend",
+      "content": "Weather looks good for Sunday ☀️",
+      "offset_days": -3,
+      "offset_hours": 11,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "chris-miller",
+      "content": "Perfect football weather",
+      "offset_days": -3,
+      "offset_hours": 11,
+      "offset_minutes": 10
+    },
+    {
+      "sender": "alex-thompson",
+      "content": "I'm bringing Gatorade for everyone",
+      "offset_days": -3,
+      "offset_hours": 11,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "me",
+      "content": "I'll bring water bottles",
+      "offset_days": -3,
+      "offset_hours": 11,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "alex-thompson",
+      "content": "Next trip location?",
+      "offset_days": -3,
+      "offset_hours": 20,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/warriors_camp.jpg",
+      "media_caption": "Camping spot"
+    },
+    {
+      "sender": "mike-weekend",
+      "content": "The crew!",
+      "offset_days": -2,
+      "offset_hours": 15,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/warriors_group.jpg",
+      "media_caption": "Group selfie"
+    },
+    {
+      "sender": "chris-miller",
+      "content": "Great game everyone!! That was intense",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "chris-miller",
+      "content": "My place Saturday?",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/warriors_bbq.jpg",
+      "media_caption": "Backyard party"
+    },
+    {
+      "sender": "me",
+      "content": "My legs are going to hurt tomorrow 😂",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 10
+    },
+    {
+      "sender": "alex-thompson",
+      "content": "Good cardio though! Counts as our workout",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "mike-weekend",
+      "content": "That last touchdown was sick!",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "chris-miller",
+      "content": "Old man here scored twice 😏",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "me",
+      "content": "Lucky catches 😂",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 28
+    },
+    {
+      "sender": "chris-miller",
+      "content": "Same time next week?",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "alex-thompson",
+      "content": "I'm in!",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Always!",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 38
+    },
+    {
+      "sender": "mike-weekend",
+      "content": "See you all then 🙌",
+      "offset_days": -1,
+      "offset_hours": 18,
+      "offset_minutes": 40
+    }
+  ]
+}

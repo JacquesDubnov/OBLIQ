@@ -1,0 +1,161 @@
+{
+  "chat_id": "david-kim",
+  "messages": [
+    {
+      "sender": "contact",
+      "content": "Hi! I saw your listing on Zillow. Is the house still available?",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "Hi David! Yes, it's still available. Would you like to schedule a viewing?",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "That would be great! My partner and I are free this weekend",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Saturday at 10am work for you?",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "contact",
+      "content": "Perfect! See you then",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 50
+    },
+    {
+      "sender": "contact",
+      "content": "Thank you for showing us the house today!",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "We really loved the backyard",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "me",
+      "content": "Glad you liked it! Any questions I can answer?",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "contact",
+      "content": "How old is the HVAC system?",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 50
+    },
+    {
+      "sender": "me",
+      "content": "It was replaced 3 years ago. I have all the service records",
+      "offset_days": -5,
+      "offset_hours": 12,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "Great! We'll discuss and get back to you",
+      "offset_days": -5,
+      "offset_hours": 12,
+      "offset_minutes": 10
+    },
+    {
+      "sender": "contact",
+      "content": "Hi! We've been thinking about it",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "Is this the one we saw on Saturday?",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/david_interested.jpg",
+      "media_caption": "Colonial with front porch"
+    },
+    {
+      "sender": "contact",
+      "content": "The price is a bit above our budget",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 2
+    },
+    {
+      "sender": "contact",
+      "content": "Would you consider $470K?",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 5
+    },
+    {
+      "sender": "me",
+      "content": "I appreciate the offer, but we've just received another one closer to asking",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "I understand. Could you let us know if that falls through?",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "me",
+      "content": "Of course. I'll keep you posted",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "contact",
+      "content": "Thank you. Good luck with the sale!",
+      "offset_days": -3,
+      "offset_hours": 15,
+      "offset_minutes": 50
+    },
+    {
+      "sender": "contact",
+      "content": "Here's our current place - we definitely need more space",
+      "offset_days": -2,
+      "offset_hours": 18,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/david_current.jpg",
+      "media_caption": "City apartment"
+    },
+    {
+      "sender": "contact",
+      "content": "Love the neighborhood feel",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/david_neighborhood.jpg",
+      "media_caption": "Tree-lined streets"
+    }
+  ]
+}

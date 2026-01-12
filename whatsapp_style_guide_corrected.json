@@ -1,0 +1,856 @@
+{
+  "meta": {
+    "name": "WhatsApp Web Style Guide - Corrected",
+    "version": "2025.2",
+    "description": "Accurate style specifications based on real WhatsApp Web interface (January 2025)",
+    "lastUpdated": "2025-01-11",
+    "referenceSource": "Real WhatsApp Web Mac app screenshot"
+  },
+
+  "layoutStructure": {
+    "description": "WhatsApp Web has THREE main columns, not two",
+    "columns": {
+      "navigationBar": {
+        "description": "Far-left vertical icon bar with navigation icons",
+        "width": "68px",
+        "background": "#ffffff",
+        "borderRight": "1px solid #e9edef"
+      },
+      "sidebar": {
+        "description": "Chat list panel with search and filters",
+        "width": "340px",
+        "minWidth": "300px",
+        "maxWidth": "500px"
+      },
+      "chatWindow": {
+        "description": "Main conversation area",
+        "width": "flex (remaining space)"
+      }
+    }
+  },
+
+  "themes": {
+    "light": {
+      "name": "Light Theme (Default in screenshots)",
+      "isDefault": true,
+      
+      "navigationBar": {
+        "background": "#ffffff",
+        "iconDefault": "#54656f",
+        "iconHover": "#111b21",
+        "iconActive": "#00a884",
+        "activeIndicator": "#00a884",
+        "activeIndicatorWidth": "3px",
+        "divider": "#e9edef"
+      },
+
+      "backgrounds": {
+        "app": "#ffffff",
+        "navigationBar": "#ffffff",
+        "sidebar": "#ffffff",
+        "sidebarHeader": "#ffffff",
+        "searchBarContainer": "#ffffff",
+        "searchBarInput": "#f0f2f5",
+        "filterTabsContainer": "#ffffff",
+        "chatListItem": "#ffffff",
+        "chatListItemHover": "#f5f6f6",
+        "chatListItemSelected": "#f0f2f5",
+        "chatWindow": "#efeae2",
+        "chatWindowPattern": "url('/whatsapp-pattern-light.png')",
+        "chatWindowPatternOpacity": 0.06,
+        "messageInput": "#f0f2f5",
+        "inputField": "#ffffff",
+        "dropdown": "#ffffff",
+        "modal": "#ffffff",
+        "modalOverlay": "rgba(11, 20, 26, 0.5)"
+      },
+
+      "messageBubbles": {
+        "outgoing": {
+          "background": "#d9fdd3",
+          "text": "#111b21",
+          "timestamp": "#667781",
+          "link": "#027eb5",
+          "tail": "#d9fdd3",
+          "tailPosition": "right"
+        },
+        "incoming": {
+          "background": "#ffffff",
+          "text": "#111b21",
+          "timestamp": "#667781",
+          "link": "#027eb5",
+          "tail": "#ffffff",
+          "tailPosition": "left",
+          "senderName": "#06cf9c"
+        },
+        "quoted": {
+          "background": "rgba(0, 0, 0, 0.05)",
+          "borderLeft": "4px solid #06cf9c",
+          "senderLabel": "#06cf9c",
+          "labelText": "You"
+        },
+        "system": {
+          "background": "#fdf4c5",
+          "text": "#54656f",
+          "borderRadius": "7.5px",
+          "padding": "5px 12px"
+        },
+        "unreadDivider": {
+          "background": "#ffffff",
+          "text": "#54656f",
+          "border": "1px solid #e9edef"
+        }
+      },
+
+      "text": {
+        "primary": "#111b21",
+        "secondary": "#667781",
+        "tertiary": "#8696a0",
+        "placeholder": "#667781",
+        "chatName": "#111b21",
+        "chatPreview": "#667781",
+        "timestamp": "#667781",
+        "timestampUnread": "#00a884",
+        "link": "#027eb5",
+        "linkHover": "#0056b3",
+        "danger": "#ea0038",
+        "success": "#00a884",
+        "edited": "#667781"
+      },
+
+      "icons": {
+        "default": "#54656f",
+        "secondary": "#8696a0",
+        "hover": "#111b21",
+        "active": "#00a884",
+        "send": "#54656f",
+        "sendHover": "#00a884",
+        "attachment": "#54656f",
+        "navigationDefault": "#54656f",
+        "navigationActive": "#00a884"
+      },
+
+      "borders": {
+        "default": "#e9edef",
+        "light": "#e9edef",
+        "sidebar": "#e9edef",
+        "chatListItem": "none",
+        "input": "#e9edef",
+        "filterTab": "#e9edef"
+      },
+
+      "status": {
+        "online": "#25d366",
+        "typing": "#667781"
+      },
+
+      "badges": {
+        "unread": "#25d366",
+        "unreadText": "#ffffff",
+        "muted": "#8696a0",
+        "mutedBackground": "transparent"
+      },
+
+      "scrollbar": {
+        "track": "transparent",
+        "thumb": "rgba(0, 0, 0, 0.2)",
+        "thumbHover": "rgba(0, 0, 0, 0.3)",
+        "width": "6px"
+      },
+
+      "messageStatus": {
+        "pending": "#667781",
+        "sent": "#667781",
+        "delivered": "#667781",
+        "read": "#53bdeb"
+      },
+
+      "filterTabs": {
+        "background": "#ffffff",
+        "tabBackground": "#e9edef",
+        "tabBackgroundActive": "#e7fce3",
+        "tabText": "#54656f",
+        "tabTextActive": "#008069",
+        "tabBorderRadius": "18px",
+        "tabPadding": "6px 12px"
+      }
+    },
+
+    "dark": {
+      "name": "Dark Theme",
+      "isDefault": false,
+      
+      "navigationBar": {
+        "background": "#202c33",
+        "iconDefault": "#aebac1",
+        "iconHover": "#e9edef",
+        "iconActive": "#00a884",
+        "activeIndicator": "#00a884",
+        "divider": "#2a3942"
+      },
+
+      "backgrounds": {
+        "app": "#111b21",
+        "navigationBar": "#202c33",
+        "sidebar": "#111b21",
+        "sidebarHeader": "#202c33",
+        "searchBarContainer": "#111b21",
+        "searchBarInput": "#202c33",
+        "filterTabsContainer": "#111b21",
+        "chatListItem": "#111b21",
+        "chatListItemHover": "#202c33",
+        "chatListItemSelected": "#2a3942",
+        "chatWindow": "#0b141a",
+        "chatWindowPattern": "url('/whatsapp-pattern-dark.png')",
+        "chatWindowPatternOpacity": 0.06,
+        "messageInput": "#202c33",
+        "inputField": "#2a3942",
+        "dropdown": "#233138",
+        "modal": "#3b4a54",
+        "modalOverlay": "rgba(11, 20, 26, 0.85)"
+      },
+
+      "messageBubbles": {
+        "outgoing": {
+          "background": "#005c4b",
+          "text": "#e9edef",
+          "timestamp": "rgba(255, 255, 255, 0.6)",
+          "link": "#53bdeb",
+          "tail": "#005c4b"
+        },
+        "incoming": {
+          "background": "#202c33",
+          "text": "#e9edef",
+          "timestamp": "rgba(255, 255, 255, 0.6)",
+          "link": "#53bdeb",
+          "tail": "#202c33",
+          "senderName": "#35cd96"
+        },
+        "quoted": {
+          "background": "rgba(0, 0, 0, 0.2)",
+          "borderLeft": "4px solid #06cf9c",
+          "senderLabel": "#06cf9c"
+        },
+        "system": {
+          "background": "rgba(32, 44, 51, 0.95)",
+          "text": "rgba(233, 237, 239, 0.9)"
+        },
+        "unreadDivider": {
+          "background": "#182229",
+          "text": "#8696a0"
+        }
+      },
+
+      "text": {
+        "primary": "#e9edef",
+        "secondary": "#8696a0",
+        "tertiary": "#667781",
+        "placeholder": "#8696a0",
+        "chatName": "#e9edef",
+        "chatPreview": "#8696a0",
+        "timestamp": "#8696a0",
+        "timestampUnread": "#00a884",
+        "link": "#53bdeb",
+        "linkHover": "#7dd3f0",
+        "danger": "#f15c6d",
+        "success": "#00a884"
+      },
+
+      "icons": {
+        "default": "#aebac1",
+        "secondary": "#8696a0",
+        "hover": "#e9edef",
+        "active": "#00a884",
+        "send": "#8696a0",
+        "sendHover": "#00a884",
+        "attachment": "#8696a0"
+      },
+
+      "borders": {
+        "default": "#2a3942",
+        "light": "#222d34",
+        "sidebar": "#222d34",
+        "input": "transparent"
+      },
+
+      "status": {
+        "online": "#25d366",
+        "typing": "#00a884"
+      },
+
+      "badges": {
+        "unread": "#00a884",
+        "unreadText": "#111b21",
+        "muted": "#8696a0"
+      },
+
+      "scrollbar": {
+        "track": "transparent",
+        "thumb": "rgba(134, 150, 160, 0.3)",
+        "thumbHover": "rgba(134, 150, 160, 0.5)",
+        "width": "6px"
+      },
+
+      "messageStatus": {
+        "pending": "#8696a0",
+        "sent": "#8696a0",
+        "delivered": "#8696a0",
+        "read": "#53bdeb"
+      },
+
+      "filterTabs": {
+        "background": "#111b21",
+        "tabBackground": "#202c33",
+        "tabBackgroundActive": "#103629",
+        "tabText": "#8696a0",
+        "tabTextActive": "#25d366",
+        "tabBorderRadius": "18px"
+      }
+    }
+  },
+
+  "typography": {
+    "fontFamily": {
+      "primary": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
+      "monospace": "'SF Mono', 'Fira Code', Consolas, monospace",
+      "emoji": "'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif"
+    },
+    "fontSize": {
+      "xs": "11px",
+      "sm": "12px",
+      "smPlus": "13px",
+      "base": "14px",
+      "md": "15px",
+      "lg": "17px",
+      "xl": "19px",
+      "xxl": "24px"
+    },
+    "fontWeight": {
+      "normal": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    },
+    "lineHeight": {
+      "tight": 1.2,
+      "normal": 1.35,
+      "relaxed": 1.5
+    },
+    "usage": {
+      "sidebarTitle": {
+        "size": "22px",
+        "weight": 700,
+        "color": "text.primary"
+      },
+      "chatListName": {
+        "size": "17px",
+        "weight": 400,
+        "lineHeight": 1.3,
+        "color": "text.chatName"
+      },
+      "chatListPreview": {
+        "size": "14px",
+        "weight": 400,
+        "lineHeight": 1.35,
+        "color": "text.chatPreview"
+      },
+      "chatListTime": {
+        "size": "12px",
+        "weight": 400,
+        "color": "text.timestamp"
+      },
+      "messageText": {
+        "size": "14.2px",
+        "weight": 400,
+        "lineHeight": 1.4
+      },
+      "messageTimestamp": {
+        "size": "11px",
+        "weight": 400
+      },
+      "headerTitle": {
+        "size": "16px",
+        "weight": 400
+      },
+      "headerSubtitle": {
+        "size": "13px",
+        "weight": 400,
+        "color": "text.secondary"
+      },
+      "inputText": {
+        "size": "15px",
+        "weight": 400
+      },
+      "inputPlaceholder": {
+        "size": "15px",
+        "weight": 400,
+        "color": "text.placeholder"
+      },
+      "filterTab": {
+        "size": "13px",
+        "weight": 400
+      },
+      "quotedSender": {
+        "size": "12.8px",
+        "weight": 500
+      },
+      "editedLabel": {
+        "size": "11px",
+        "weight": 400,
+        "fontStyle": "italic"
+      }
+    }
+  },
+
+  "layout": {
+    "navigationBar": {
+      "width": "68px",
+      "iconSize": "24px",
+      "iconSpacing": "24px",
+      "padding": "12px 0",
+      "bottomIcons": ["starred", "metaAI", "settings"]
+    },
+    "sidebar": {
+      "width": "340px",
+      "minWidth": "300px",
+      "maxWidth": "500px",
+      "headerHeight": "59px",
+      "searchContainerHeight": "49px",
+      "filterTabsHeight": "44px"
+    },
+    "chatWindow": {
+      "headerHeight": "59px",
+      "inputMinHeight": "62px",
+      "inputMaxHeight": "200px"
+    },
+    "chatListItem": {
+      "height": "72px",
+      "padding": "0 15px",
+      "avatarSize": "49px",
+      "avatarMarginRight": "15px",
+      "contentGap": "6px"
+    },
+    "messages": {
+      "maxWidth": "65%",
+      "minWidth": "80px",
+      "padding": "6px 7px 8px 9px",
+      "borderRadius": "7.5px",
+      "tailWidth": "8px",
+      "tailHeight": "13px",
+      "gap": "2px",
+      "groupGap": "12px",
+      "timestampMarginLeft": "4px"
+    },
+    "avatar": {
+      "xs": "28px",
+      "sm": "36px",
+      "md": "40px",
+      "lg": "49px",
+      "xl": "60px",
+      "profile": "200px"
+    },
+    "spacing": {
+      "xs": "4px",
+      "sm": "8px",
+      "md": "12px",
+      "lg": "16px",
+      "xl": "24px",
+      "xxl": "32px"
+    },
+    "borderRadius": {
+      "sm": "4px",
+      "md": "8px",
+      "lg": "12px",
+      "xl": "16px",
+      "pill": "18px",
+      "full": "9999px"
+    }
+  },
+
+  "components": {
+    "navigationBar": {
+      "icons": [
+        { "id": "chats", "icon": "message-circle", "label": "Chats", "position": "top" },
+        { "id": "calls", "icon": "phone", "label": "Calls", "badge": true, "position": "top" },
+        { "id": "status", "icon": "circle-dot", "label": "Status", "position": "top" },
+        { "id": "channels", "icon": "broadcast", "label": "Channels", "position": "top" },
+        { "id": "communities", "icon": "users", "label": "Communities", "position": "top" },
+        { "id": "starred", "icon": "star", "label": "Starred", "position": "bottom" },
+        { "id": "metaAI", "icon": "sparkles", "label": "Meta AI", "position": "bottom" },
+        { "id": "settings", "icon": "settings", "label": "Settings", "position": "bottom" }
+      ],
+      "activeIndicator": {
+        "width": "3px",
+        "height": "24px",
+        "borderRadius": "0 3px 3px 0",
+        "position": "left"
+      }
+    },
+
+    "sidebarHeader": {
+      "height": "59px",
+      "padding": "10px 16px",
+      "title": "Chats",
+      "icons": [
+        { "id": "newGroup", "icon": "users-plus" },
+        { "id": "newChat", "icon": "edit-square" },
+        { "id": "menu", "icon": "more-vertical" }
+      ]
+    },
+
+    "searchBar": {
+      "containerPadding": "8px 12px",
+      "height": "35px",
+      "borderRadius": "8px",
+      "iconSize": "16px",
+      "iconPadding": "12px",
+      "placeholder": "Ask Meta AI or Search"
+    },
+
+    "filterTabs": {
+      "containerPadding": "8px 12px",
+      "tabs": ["All", "Unread", "Favorites", "Groups"],
+      "tabHeight": "32px",
+      "tabPadding": "0 12px",
+      "tabBorderRadius": "16px",
+      "tabGap": "8px"
+    },
+
+    "chatListItem": {
+      "avatarSize": "49px",
+      "avatarBorderRadius": "50%",
+      "contentLayout": "vertical",
+      "nameMaxWidth": "calc(100% - 60px)",
+      "previewMaxLines": 1,
+      "showCheckmarks": true,
+      "checkmarkSize": "16px"
+    },
+
+    "chatHeader": {
+      "height": "59px",
+      "padding": "10px 16px",
+      "avatarSize": "40px",
+      "icons": [
+        { "id": "videoCall", "icon": "video" },
+        { "id": "voiceCall", "icon": "phone" },
+        { "id": "search", "icon": "search" },
+        { "id": "menu", "icon": "more-vertical" }
+      ],
+      "iconSize": "22px",
+      "iconGap": "24px"
+    },
+
+    "messageInput": {
+      "containerPadding": "10px 16px",
+      "height": "52px",
+      "borderRadius": "8px",
+      "leftIcons": [
+        { "id": "emoji", "icon": "smile" },
+        { "id": "attach", "icon": "paperclip" }
+      ],
+      "rightIcons": [
+        { "id": "voice", "icon": "mic" }
+      ],
+      "placeholder": "Type a message",
+      "iconSize": "24px"
+    },
+
+    "messageBubble": {
+      "maxWidth": "65%",
+      "minWidth": "80px",
+      "padding": "6px 7px 8px 9px",
+      "borderRadius": "7.5px",
+      "tailEnabled": true,
+      "timestampPosition": "bottom-right",
+      "timestampInside": true,
+      "statusIconSize": "16px"
+    },
+
+    "quotedMessage": {
+      "borderRadius": "4px",
+      "padding": "4px 8px",
+      "borderLeftWidth": "4px",
+      "marginBottom": "4px",
+      "senderLabelSize": "12.8px",
+      "previewMaxLines": 1
+    },
+
+    "avatar": {
+      "defaultBackground": "#6a7175",
+      "textColor": "#ffffff",
+      "border": "none",
+      "shadow": "none",
+      "fallbackIcon": "user"
+    },
+
+    "badge": {
+      "height": "20px",
+      "minWidth": "20px",
+      "borderRadius": "10px",
+      "fontSize": "12px",
+      "fontWeight": 500,
+      "padding": "0 6px"
+    },
+
+    "tooltip": {
+      "background": "#3b4a54",
+      "text": "#e9edef",
+      "borderRadius": "3px",
+      "padding": "4px 8px",
+      "fontSize": "12px",
+      "shadow": "0 2px 5px rgba(0,0,0,0.26)"
+    },
+
+    "dropdown": {
+      "borderRadius": "3px",
+      "shadow": "0 2px 5px rgba(0,0,0,0.26)",
+      "itemHeight": "40px",
+      "itemPadding": "0 24px",
+      "minWidth": "200px"
+    },
+
+    "modal": {
+      "borderRadius": "3px",
+      "shadow": "0 1px 1px rgba(0,0,0,0.13)",
+      "padding": "20px",
+      "maxWidth": "500px"
+    },
+
+    "emptyState": {
+      "iconSize": "80px",
+      "iconBackground": "#25d366",
+      "titleSize": "32px",
+      "subtitleSize": "14px",
+      "textColor": "#54656f"
+    }
+  },
+
+  "icons": {
+    "sizes": {
+      "xs": "14px",
+      "sm": "16px",
+      "md": "20px",
+      "lg": "24px",
+      "xl": "28px"
+    },
+    "strokeWidth": 1.5,
+    "library": "lucide-react",
+    "mapping": {
+      "chats": "MessageCircle",
+      "calls": "Phone",
+      "status": "CircleDot",
+      "channels": "Radio",
+      "communities": "Users",
+      "starred": "Star",
+      "metaAI": "Sparkles",
+      "settings": "Settings",
+      "search": "Search",
+      "menu": "MoreVertical",
+      "newChat": "SquarePen",
+      "newGroup": "UserPlus",
+      "videoCall": "Video",
+      "voiceCall": "Phone",
+      "emoji": "Smile",
+      "attach": "Paperclip",
+      "plus": "Plus",
+      "mic": "Mic",
+      "send": "Send",
+      "check": "Check",
+      "checkCheck": "CheckCheck",
+      "clock": "Clock",
+      "image": "Image",
+      "file": "File",
+      "close": "X",
+      "back": "ArrowLeft",
+      "chevronDown": "ChevronDown",
+      "pin": "Pin",
+      "mute": "BellOff",
+      "delete": "Trash2",
+      "user": "User",
+      "camera": "Camera"
+    }
+  },
+
+  "animations": {
+    "duration": {
+      "instant": "0ms",
+      "fast": "100ms",
+      "normal": "200ms",
+      "slow": "300ms"
+    },
+    "easing": {
+      "default": "ease-out",
+      "smooth": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "bounce": "cubic-bezier(0.68, -0.55, 0.265, 1.55)"
+    },
+    "typing": {
+      "dotSize": "8px",
+      "dotGap": "4px",
+      "dotColor": "#8696a0",
+      "animationDuration": "1.4s",
+      "animationType": "bounce"
+    },
+    "messageAppear": {
+      "duration": "150ms",
+      "translateY": "5px",
+      "opacity": "0 -> 1"
+    },
+    "chatListItem": {
+      "hoverDuration": "100ms"
+    },
+    "iconHover": {
+      "duration": "150ms",
+      "scale": 1.1
+    }
+  },
+
+  "messageStatus": {
+    "icons": {
+      "pending": {
+        "icon": "clock",
+        "size": "14px"
+      },
+      "sent": {
+        "icon": "check",
+        "size": "16px"
+      },
+      "delivered": {
+        "icon": "check-check",
+        "size": "16px"
+      },
+      "read": {
+        "icon": "check-check",
+        "size": "16px",
+        "color": "#53bdeb"
+      }
+    },
+    "position": "inline-end",
+    "gap": "3px"
+  },
+
+  "chatTypes": {
+    "individual": {
+      "showSenderName": false,
+      "avatarShape": "circle"
+    },
+    "group": {
+      "showSenderName": true,
+      "avatarShape": "circle",
+      "senderNameColors": [
+        "#06cf9c", "#e542a3", "#00a0f2", "#f9a825",
+        "#ff7043", "#ab47bc", "#26a69a", "#ec407a",
+        "#7cb342", "#039be5", "#8e24aa", "#c62828"
+      ],
+      "maxMembersDisplay": 4,
+      "memberListSeparator": ", "
+    }
+  },
+
+  "timestamps": {
+    "formats": {
+      "messageTime": "HH:mm",
+      "chatListToday": "HH:mm",
+      "chatListYesterday": "'Yesterday'",
+      "chatListThisWeek": "EEEE",
+      "chatListOlder": "dd/MM/yy",
+      "dateDividerToday": "'Today'",
+      "dateDividerYesterday": "'Yesterday'",
+      "dateDividerOther": "dd/MM/yyyy"
+    },
+    "use24Hour": true
+  },
+
+  "sounds": {
+    "enabled": true,
+    "files": {
+      "messageSent": "/sounds/sent.mp3",
+      "messageReceived": "/sounds/received.mp3",
+      "notification": "/sounds/notification.mp3",
+      "callRinging": "/sounds/ringing.mp3",
+      "callEnded": "/sounds/call-ended.mp3"
+    }
+  },
+
+  "patterns": {
+    "chatBackground": {
+      "light": {
+        "image": "/patterns/wa-bg-light.png",
+        "color": "#efeae2",
+        "opacity": 0.06,
+        "repeat": "repeat",
+        "size": "auto"
+      },
+      "dark": {
+        "image": "/patterns/wa-bg-dark.png",
+        "color": "#0b141a",
+        "opacity": 0.06,
+        "repeat": "repeat",
+        "size": "auto"
+      }
+    }
+  },
+
+  "accessibility": {
+    "focusRing": {
+      "color": "#00a884",
+      "width": "2px",
+      "offset": "2px",
+      "style": "solid"
+    },
+    "minimumTouchTarget": "44px",
+    "reducedMotion": {
+      "disableAnimations": true,
+      "disableTransitions": false
+    },
+    "highContrast": {
+      "supported": false
+    }
+  },
+
+  "responsive": {
+    "breakpoints": {
+      "mobile": "768px",
+      "tablet": "1024px",
+      "desktop": "1280px"
+    },
+    "mobile": {
+      "showNavigationBar": false,
+      "sidebarWidth": "100%",
+      "chatWindowSeparate": true
+    }
+  },
+
+  "zIndex": {
+    "navigationBar": 50,
+    "sidebar": 100,
+    "chatHeader": 200,
+    "messageInput": 150,
+    "dropdown": 1000,
+    "modalOverlay": 1050,
+    "modal": 1100,
+    "tooltip": 1200,
+    "toast": 1300
+  },
+
+  "specialFeatures": {
+    "unreadMessagesDivider": {
+      "enabled": true,
+      "text": "{count} unread message(s)",
+      "sticky": false
+    },
+    "editedLabel": {
+      "enabled": true,
+      "text": "Edited",
+      "position": "before-timestamp"
+    },
+    "replyPreview": {
+      "enabled": true,
+      "showSenderLabel": true,
+      "senderLabelText": "You"
+    },
+    "emojiReactions": {
+      "enabled": true,
+      "maxDisplay": 3
+    }
+  }
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OBLIQ Demo</title>
+    <!-- Google Fonts for Japanese/CJK support -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+      /* Base styles - guaranteed to load first */
+      * {
+        font-family: 'Helvetica Neue', Helvetica, Arial, 'Noto Sans JP', sans-serif !important;
+      }
+      /* Remove default button styles that might add borders */
+      button {
+        border: none !important;
+        outline: none !important;
+      }
+      /* SVG icon styles - override lucide-react inline styles */
+      svg {
+        stroke-width: 1.5 !important;
+      }
+      /* Ensure SVG paths/lines don't have extra strokes */
+      svg path, svg line, svg circle, svg polyline, svg rect {
+        stroke: inherit !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

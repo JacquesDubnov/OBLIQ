@@ -1,0 +1,230 @@
+{
+  "chat_id": "alex-thompson",
+  "messages": [
+    {
+      "sender": "contact",
+      "content": "Good session today!",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "I can barely walk 😂",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "That means it worked! See you Thursday for chest?",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "me",
+      "content": "I'll be there",
+      "offset_days": -6,
+      "offset_hours": 9,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "contact",
+      "content": "Gym tomorrow morning? 6am?",
+      "offset_days": -6,
+      "offset_hours": 20,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "Ugh that's early. Can we do 7?",
+      "offset_days": -6,
+      "offset_hours": 20,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "contact",
+      "content": "7 works. Leg day 🦵",
+      "offset_days": -6,
+      "offset_hours": 20,
+      "offset_minutes": 18
+    },
+    {
+      "sender": "me",
+      "content": "My favorite 😅",
+      "offset_days": -6,
+      "offset_hours": 20,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "contact",
+      "content": "No pain no gain!",
+      "offset_days": -6,
+      "offset_hours": 20,
+      "offset_minutes": 22
+    },
+    {
+      "sender": "contact",
+      "content": "Leg day complete 💪",
+      "offset_days": -4,
+      "offset_hours": 7,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/alex_gym.jpg",
+      "media_caption": "Gym selfie"
+    },
+    {
+      "sender": "contact",
+      "content": "Trying a new pre-workout. Want some?",
+      "offset_days": -4,
+      "offset_hours": 19,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "What brand?",
+      "offset_days": -4,
+      "offset_hours": 19,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "contact",
+      "content": "C4 Ultimate. It's 🔥",
+      "offset_days": -4,
+      "offset_hours": 19,
+      "offset_minutes": 18
+    },
+    {
+      "sender": "me",
+      "content": "Sure, I'll try it tomorrow",
+      "offset_days": -4,
+      "offset_hours": 19,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "contact",
+      "content": "Prepare to PR bro",
+      "offset_days": -4,
+      "offset_hours": 19,
+      "offset_minutes": 28
+    },
+    {
+      "sender": "contact",
+      "content": "Morning run route - 5K",
+      "offset_days": -3,
+      "offset_hours": 6,
+      "offset_minutes": 30,
+      "type": "image",
+      "media_url": "/media/images/alex_running.jpg",
+      "media_caption": "Trail run"
+    },
+    {
+      "sender": "contact",
+      "content": "Post-workout fuel",
+      "offset_days": -2,
+      "offset_hours": 8,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/alex_protein.jpg",
+      "media_caption": "Protein shake"
+    },
+    {
+      "sender": "contact",
+      "content": "You hit the gym today?",
+      "offset_days": -2,
+      "offset_hours": 17,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "Couldn't make it. Too much going on with the house sale",
+      "offset_days": -2,
+      "offset_hours": 17,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "contact",
+      "content": "Ah man. Don't skip too many days",
+      "offset_days": -2,
+      "offset_hours": 17,
+      "offset_minutes": 22
+    },
+    {
+      "sender": "me",
+      "content": "I know. Back at it Monday for sure",
+      "offset_days": -2,
+      "offset_hours": 17,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "I'll hold you to it 💪",
+      "offset_days": -2,
+      "offset_hours": 17,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "contact",
+      "content": "New PR! 🎉",
+      "offset_days": -1,
+      "offset_hours": 7,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/alex_tracker.jpg",
+      "media_caption": "Fitness tracker"
+    },
+    {
+      "sender": "contact",
+      "content": "Good to see you at the football game yesterday!",
+      "offset_days": -1,
+      "offset_hours": 11,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "That was fun! Great workout too",
+      "offset_days": -1,
+      "offset_hours": 11,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "contact",
+      "content": "Cardio counts! But we're still hitting weights tomorrow",
+      "offset_days": -1,
+      "offset_hours": 11,
+      "offset_minutes": 22
+    },
+    {
+      "sender": "me",
+      "content": "Fair enough. 7am?",
+      "offset_days": -1,
+      "offset_hours": 11,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "Let's do 6:30. Back day 🏋️",
+      "offset_days": -1,
+      "offset_hours": 11,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "me",
+      "content": "Deal. See you then",
+      "offset_days": -1,
+      "offset_hours": 11,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "contact",
+      "content": "Let's get it",
+      "offset_days": 0,
+      "offset_hours": -5,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/alex_weights.jpg",
+      "media_caption": "Weight room"
+    }
+  ]
+}

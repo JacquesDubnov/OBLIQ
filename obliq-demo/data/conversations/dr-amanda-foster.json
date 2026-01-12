@@ -1,0 +1,228 @@
+{
+  "chat_id": "dr-amanda-foster",
+  "messages": [
+    {
+      "sender": "contact",
+      "content": "Hi! Just confirming your appointment for next Tuesday at 2pm",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "Yes, I'll be there. Thanks for the reminder",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "Perfect. Please remember to fast for 12 hours before your blood work",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Got it. No food after 2am Monday night",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "contact",
+      "content": "Exactly. Water is fine though!",
+      "offset_days": -6,
+      "offset_hours": 14,
+      "offset_minutes": 42
+    },
+    {
+      "sender": "me",
+      "content": "Hi Dr. Foster, I had a question about the medication you prescribed",
+      "offset_days": -5,
+      "offset_hours": 10,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "Of course! What's your question?",
+      "offset_days": -5,
+      "offset_hours": 10,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "me",
+      "content": "Should I take it with food or on an empty stomach?",
+      "offset_days": -5,
+      "offset_hours": 10,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "contact",
+      "content": "Take it with food to avoid stomach upset. Preferably with breakfast",
+      "offset_days": -5,
+      "offset_hours": 10,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Thank you! Also, any side effects I should watch for?",
+      "offset_days": -5,
+      "offset_hours": 10,
+      "offset_minutes": 38
+    },
+    {
+      "sender": "contact",
+      "content": "Mild drowsiness is possible the first few days. Avoid driving if you feel affected",
+      "offset_days": -5,
+      "offset_hours": 10,
+      "offset_minutes": 42
+    },
+    {
+      "sender": "me",
+      "content": "Understood. Thanks for the quick response",
+      "offset_days": -5,
+      "offset_hours": 10,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "contact",
+      "content": "Good morning! Your lab results are in",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "Our new location on Main Street",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/dr_building.jpg",
+      "media_caption": "Medical Office"
+    },
+    {
+      "sender": "me",
+      "content": "How do they look?",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "contact",
+      "content": "Everything looks good! Cholesterol is down from last time",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 18
+    },
+    {
+      "sender": "me",
+      "content": "That's great news! The diet changes are working then",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 22
+    },
+    {
+      "sender": "contact",
+      "content": "Yes! Keep it up. Your vitamin D is a bit low though",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "me",
+      "content": "Should I take supplements?",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 28
+    },
+    {
+      "sender": "contact",
+      "content": "I'm prescribing 2000 IU daily. Will send to your pharmacy",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "me",
+      "content": "Perfect, thank you Dr. Foster",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Quick question - is it okay to take the vitamin D with my other medication?",
+      "offset_days": -2,
+      "offset_hours": 11,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "Yes, no interactions. You can take them together",
+      "offset_days": -2,
+      "offset_hours": 11,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "me",
+      "content": "Great, thanks!",
+      "offset_days": -2,
+      "offset_hours": 11,
+      "offset_minutes": 48
+    },
+    {
+      "sender": "contact",
+      "content": "Your numbers are looking great!",
+      "offset_days": -1,
+      "offset_hours": 10,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/dr_chart.jpg",
+      "media_caption": "Health chart"
+    },
+    {
+      "sender": "contact",
+      "content": "Just a reminder - your next checkup is in 3 months",
+      "offset_days": -1,
+      "offset_hours": 15,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "Would you like to schedule it now?",
+      "offset_days": -1,
+      "offset_hours": 15,
+      "offset_minutes": 2
+    },
+    {
+      "sender": "me",
+      "content": "Yes please. Any morning slot works for me",
+      "offset_days": -1,
+      "offset_hours": 15,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "How about March 15th at 9am?",
+      "offset_days": -1,
+      "offset_hours": 15,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "That works perfectly",
+      "offset_days": -1,
+      "offset_hours": 15,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "contact",
+      "content": "Great! You're all set. See you then!",
+      "offset_days": -1,
+      "offset_hours": 15,
+      "offset_minutes": 42
+    }
+  ]
+}

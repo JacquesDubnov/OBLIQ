@@ -1,0 +1,44 @@
+{
+  "chat_id": "sarah-chen",
+  "messages": [
+    { "sender": "contact", "content": "Hey honey, just got off the call with the mortgage advisor", "offset_days": -6, "offset_hours": 9, "offset_minutes": 15 },
+    { "sender": "me", "content": "How did it go?", "offset_days": -6, "offset_hours": 9, "offset_minutes": 18 },
+    { "sender": "contact", "content": "Good news! We're pre-approved for the new place", "offset_days": -6, "offset_hours": 9, "offset_minutes": 20 },
+    { "sender": "me", "content": "That's great! One less thing to worry about", "offset_days": -6, "offset_hours": 9, "offset_minutes": 22 },
+    { "sender": "contact", "content": "Now we just need to sell this one 😅", "offset_days": -6, "offset_hours": 9, "offset_minutes": 23 },
+
+    { "sender": "me", "content": "The agent said we got another viewing request for Saturday", "offset_days": -5, "offset_hours": 14, "offset_minutes": 30 },
+    { "sender": "contact", "content": "That's great! Is it the couple from last week?", "offset_days": -5, "offset_hours": 14, "offset_minutes": 35 },
+    { "sender": "me", "content": "No, new people. They saw the listing online", "offset_days": -5, "offset_hours": 14, "offset_minutes": 38 },
+    { "sender": "contact", "content": "We should declutter the garage before then", "offset_days": -5, "offset_hours": 14, "offset_minutes": 42 },
+    { "sender": "me", "content": "Good idea. I'll move some boxes to storage", "offset_days": -5, "offset_hours": 14, "offset_minutes": 45 },
+    { "sender": "contact", "content": "Don't forget Jake has soccer practice at 2pm", "offset_days": -5, "offset_hours": 14, "offset_minutes": 48 },
+    { "sender": "me", "content": "Right, I'll make sure to be back by then", "offset_days": -5, "offset_hours": 14, "offset_minutes": 50 },
+
+    { "sender": "me", "content": "How does this look for the listing?", "offset_days": -4, "offset_hours": 11, "offset_minutes": 0, "type": "image", "media_url": "/assets/images/media/house_living_room.jpg", "media_caption": "Living room staged" },
+    { "sender": "contact", "content": "Much better! The new curtains really help", "offset_days": -4, "offset_hours": 11, "offset_minutes": 15 },
+    { "sender": "contact", "content": "Can you also take one of the backyard? That's our best feature", "offset_days": -4, "offset_hours": 11, "offset_minutes": 18 },
+    { "sender": "me", "content": "Will do. The landscaper is coming tomorrow too", "offset_days": -4, "offset_hours": 11, "offset_minutes": 22 },
+
+    { "sender": "contact", "content": "Michael said the offer from the Watsons came in", "offset_days": -2, "offset_hours": 18, "offset_minutes": 30 },
+    { "sender": "me", "content": "How much?", "offset_days": -2, "offset_hours": 18, "offset_minutes": 32 },
+    { "sender": "contact", "content": "$485,000. That's below asking", "offset_days": -2, "offset_hours": 18, "offset_minutes": 35 },
+    { "sender": "me", "content": "We should counter at $510", "offset_days": -2, "offset_hours": 18, "offset_minutes": 40 },
+    { "sender": "contact", "content": "I agree. Let's discuss tonight after dinner", "offset_days": -2, "offset_hours": 18, "offset_minutes": 42 },
+    { "sender": "me", "content": "Sounds good. I'll be home by 7", "offset_days": -2, "offset_hours": 18, "offset_minutes": 45 },
+
+    { "sender": "contact", "content": "Did you call Michael back?", "offset_days": -1, "offset_hours": 10, "offset_minutes": 30 },
+    { "sender": "me", "content": "Just got off the phone. He's presenting our counter today", "offset_days": -1, "offset_hours": 10, "offset_minutes": 45 },
+    { "sender": "contact", "content": "🤞 Fingers crossed", "offset_days": -1, "offset_hours": 10, "offset_minutes": 47 },
+    { "sender": "contact", "content": "Also, can you pick up Jake from practice today? I have a late meeting", "offset_days": -1, "offset_hours": 10, "offset_minutes": 50 },
+    { "sender": "me", "content": "Sure, what time?", "offset_days": -1, "offset_hours": 10, "offset_minutes": 52 },
+    { "sender": "contact", "content": "5:30 at the school field", "offset_days": -1, "offset_hours": 10, "offset_minutes": 53 },
+    { "sender": "me", "content": "Got it 👍", "offset_days": -1, "offset_hours": 10, "offset_minutes": 55 },
+
+    { "sender": "contact", "content": "They countered back! $495k", "offset_days": 0, "offset_hours": -3, "offset_minutes": 0 },
+    { "sender": "me", "content": "That's closer. What do you think?", "offset_days": 0, "offset_hours": -2, "offset_minutes": 55 },
+    { "sender": "contact", "content": "I think we could meet at $500k and close the deal", "offset_days": 0, "offset_hours": -2, "offset_minutes": 50 },
+    { "sender": "me", "content": "Let me talk to Michael", "offset_days": 0, "offset_hours": -2, "offset_minutes": 45 },
+    { "sender": "contact", "content": "Love you ❤️ This is really happening!", "offset_days": 0, "offset_hours": -2, "offset_minutes": 40 }
+  ]
+}

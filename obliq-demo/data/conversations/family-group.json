@@ -1,0 +1,252 @@
+{
+  "chat_id": "family-group",
+  "is_group": true,
+  "messages": [
+    {
+      "sender": "sarah-chen",
+      "content": "Family meeting! We need to plan the move 📦",
+      "offset_days": -6,
+      "offset_hours": 19,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "jake-son",
+      "content": "do i have to help pack",
+      "offset_days": -6,
+      "offset_hours": 19,
+      "offset_minutes": 10
+    },
+    {
+      "sender": "me",
+      "content": "Yes, at least your own room",
+      "offset_days": -6,
+      "offset_hours": 19,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "jake-son",
+      "content": "😩",
+      "offset_days": -6,
+      "offset_hours": 19,
+      "offset_minutes": 17
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "It'll be fun! We can order pizza while we pack",
+      "offset_days": -6,
+      "offset_hours": 19,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "jake-son",
+      "content": "ok fine 🍕",
+      "offset_days": -6,
+      "offset_hours": 19,
+      "offset_minutes": 22
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "I found some boxes at Costco. Want to pick them up tomorrow?",
+      "offset_days": -5,
+      "offset_hours": 12,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "How many?",
+      "offset_days": -5,
+      "offset_hours": 12,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "Pack of 20 medium, 10 large",
+      "offset_days": -5,
+      "offset_hours": 12,
+      "offset_minutes": 18
+    },
+    {
+      "sender": "me",
+      "content": "That should be a good start. I'll go after work",
+      "offset_days": -5,
+      "offset_hours": 12,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "jake-son",
+      "content": "can we get samples while ur there",
+      "offset_days": -5,
+      "offset_hours": 12,
+      "offset_minutes": 28
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "😂 priorities",
+      "offset_days": -5,
+      "offset_hours": 12,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "mom",
+      "content": "Sunday dinner at our place!",
+      "offset_days": -5,
+      "offset_hours": 18,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/family_dinner.jpg",
+      "media_caption": "Family gathering"
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "Throwback to last summer ☀️",
+      "offset_days": -4,
+      "offset_hours": 14,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/family_vacation.jpg",
+      "media_caption": "Beach vacation"
+    },
+    {
+      "sender": "me",
+      "content": "Big news everyone - we accepted an offer! $500K",
+      "offset_days": -3,
+      "offset_hours": 18,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "Official!! 🎉🎉",
+      "offset_days": -3,
+      "offset_hours": 18,
+      "offset_minutes": 2
+    },
+    {
+      "sender": "jake-son",
+      "content": "wait so were actually moving??",
+      "offset_days": -3,
+      "offset_hours": 18,
+      "offset_minutes": 10
+    },
+    {
+      "sender": "me",
+      "content": "Yes! To the new house closer to your school",
+      "offset_days": -3,
+      "offset_hours": 18,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "jake-son",
+      "content": "ok thats actually cool i can walk to toms house",
+      "offset_days": -3,
+      "offset_hours": 18,
+      "offset_minutes": 18
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "See? Silver linings ☺️",
+      "offset_days": -3,
+      "offset_hours": 18,
+      "offset_minutes": 22
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "So proud of Jake!",
+      "offset_days": -2,
+      "offset_hours": 16,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/family_jake_award.jpg",
+      "media_caption": "Jake's award"
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "Packing update: Kitchen is 50% done!",
+      "offset_days": -2,
+      "offset_hours": 20,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "Nice! I finished the garage",
+      "offset_days": -2,
+      "offset_hours": 20,
+      "offset_minutes": 10
+    },
+    {
+      "sender": "jake-son",
+      "content": "i did my closet",
+      "offset_days": -2,
+      "offset_hours": 20,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "Great progress everyone! 💪",
+      "offset_days": -2,
+      "offset_hours": 20,
+      "offset_minutes": 18
+    },
+    {
+      "sender": "me",
+      "content": "Maria from the moving company confirmed March 20th",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "mom",
+      "content": "Can't wait for the holidays!",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/family_holiday.jpg",
+      "media_caption": "Holiday photo"
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "Perfect. That gives us 2 days after closing to clean",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 10
+    },
+    {
+      "sender": "jake-son",
+      "content": "do i have to clean too",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 15
+    },
+    {
+      "sender": "me",
+      "content": "Yes",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 17
+    },
+    {
+      "sender": "sarah-chen",
+      "content": "Yes",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 17
+    },
+    {
+      "sender": "jake-son",
+      "content": "😅 worth a shot",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "jake-son",
+      "content": "Max wants treats",
+      "offset_days": 0,
+      "offset_hours": -3,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/family_pet.jpg",
+      "media_caption": "Max the dog"
+    }
+  ]
+}

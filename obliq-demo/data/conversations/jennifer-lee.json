@@ -1,0 +1,192 @@
+{
+  "chat_id": "jennifer-lee",
+  "messages": [
+    {
+      "sender": "contact",
+      "content": "Hi! I'm Jennifer from ABC Realty. I understand you're selling your property?",
+      "offset_days": -6,
+      "offset_hours": 11,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "Hi Jennifer. Yes, we're looking to sell. Already working with Michael Torres though",
+      "offset_days": -6,
+      "offset_hours": 11,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "Oh I see! Well if you ever need a second opinion on pricing, happy to help",
+      "offset_days": -6,
+      "offset_hours": 11,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Thanks, I'll keep that in mind",
+      "offset_days": -6,
+      "offset_hours": 11,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "contact",
+      "content": "Strategy session this morning",
+      "offset_days": -4,
+      "offset_hours": 10,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/jennifer_meeting.jpg",
+      "media_caption": "Team meeting"
+    },
+    {
+      "sender": "contact",
+      "content": "Just wanted to check in - how's the sale going?",
+      "offset_days": -4,
+      "offset_hours": 14,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "We actually have an offer now. Things are moving along",
+      "offset_days": -4,
+      "offset_hours": 14,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "contact",
+      "content": "That's wonderful! Congrats! What price did you end up listing at?",
+      "offset_days": -4,
+      "offset_hours": 14,
+      "offset_minutes": 28
+    },
+    {
+      "sender": "me",
+      "content": "Listed at 525K",
+      "offset_days": -4,
+      "offset_hours": 14,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "contact",
+      "content": "Good price for that area. The market's been strong",
+      "offset_days": -4,
+      "offset_hours": 14,
+      "offset_minutes": 38
+    },
+    {
+      "sender": "me",
+      "content": "Yeah, Michael did a good job with the comps",
+      "offset_days": -4,
+      "offset_hours": 14,
+      "offset_minutes": 42
+    },
+    {
+      "sender": "contact",
+      "content": "Working remotely today",
+      "offset_days": -3,
+      "offset_hours": 9,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/jennifer_coffee.jpg",
+      "media_caption": "Coffee shop"
+    },
+    {
+      "sender": "contact",
+      "content": "Presentation went well!",
+      "offset_days": -2,
+      "offset_hours": 14,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/jennifer_presentation.jpg",
+      "media_caption": "Presenting"
+    },
+    {
+      "sender": "contact",
+      "content": "Hey! I have a client looking in your area. Any chance the sale fell through?",
+      "offset_days": -2,
+      "offset_hours": 16,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "No, still on track. We accepted an offer at 500K",
+      "offset_days": -2,
+      "offset_hours": 16,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "contact",
+      "content": "Ah okay. Well congrats again! My client would have gone higher but that's how it goes",
+      "offset_days": -2,
+      "offset_hours": 16,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "me",
+      "content": "Thanks for thinking of us though",
+      "offset_days": -2,
+      "offset_hours": 16,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "Of course! If you ever buy again, keep me in mind 😊",
+      "offset_days": -2,
+      "offset_hours": 16,
+      "offset_minutes": 32
+    },
+    {
+      "sender": "me",
+      "content": "Will do!",
+      "offset_days": -2,
+      "offset_hours": 16,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "contact",
+      "content": "Oh by the way, do you know anyone else looking to sell?",
+      "offset_days": -1,
+      "offset_hours": 13,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "Not off the top of my head. I can ask around though",
+      "offset_days": -1,
+      "offset_hours": 13,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "That would be great! Here's my card link if you want to share it",
+      "offset_days": -1,
+      "offset_hours": 13,
+      "offset_minutes": 33
+    },
+    {
+      "sender": "contact",
+      "content": "jenniferlee.abcrealty.com",
+      "offset_days": -1,
+      "offset_hours": 13,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "Got it, thanks Jennifer",
+      "offset_days": -1,
+      "offset_hours": 13,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "contact",
+      "content": "Q4 progress looking good",
+      "offset_days": -1,
+      "offset_hours": 16,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/jennifer_dashboard.jpg",
+      "media_caption": "Dashboard"
+    }
+  ]
+}

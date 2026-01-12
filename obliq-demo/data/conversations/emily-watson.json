@@ -1,0 +1,161 @@
+{
+  "chat_id": "emily-watson",
+  "messages": [
+    {
+      "sender": "contact",
+      "content": "Hello, I'm interested in your property on Maple Street",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "me",
+      "content": "Hi Emily! Thanks for reaching out. Would you like to schedule a viewing?",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 20
+    },
+    {
+      "sender": "contact",
+      "content": "I already saw it during the open house last weekend",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 25
+    },
+    {
+      "sender": "contact",
+      "content": "I'm very interested in making an offer",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 26
+    },
+    {
+      "sender": "me",
+      "content": "That's great to hear! You can work with our agent Michael Torres",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "contact",
+      "content": "Already in touch with him. Just wanted to say the home is lovely",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 40
+    },
+    {
+      "sender": "me",
+      "content": "Thank you! We've loved living here",
+      "offset_days": -5,
+      "offset_hours": 11,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "contact",
+      "content": "Can we schedule a viewing for this one?",
+      "offset_days": -4,
+      "offset_hours": 10,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/emily_house.jpg",
+      "media_caption": "Craftsman style"
+    },
+    {
+      "sender": "contact",
+      "content": "The pool is a huge plus!",
+      "offset_days": -3,
+      "offset_hours": 14,
+      "offset_minutes": 0,
+      "type": "image",
+      "media_url": "/media/images/emily_backyard.jpg",
+      "media_caption": "Pool and patio area"
+    },
+    {
+      "sender": "contact",
+      "content": "This kitchen! 😍",
+      "offset_days": -2,
+      "offset_hours": 16,
+      "offset_minutes": 30,
+      "type": "image",
+      "media_url": "/media/images/emily_kitchen.jpg",
+      "media_caption": "Farmhouse style"
+    },
+    {
+      "sender": "contact",
+      "content": "Michael said you countered at $510K",
+      "offset_days": -2,
+      "offset_hours": 18,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "I can go up to $495K but that's my limit",
+      "offset_days": -2,
+      "offset_hours": 18,
+      "offset_minutes": 2
+    },
+    {
+      "sender": "me",
+      "content": "I appreciate your transparency. Let me discuss with my wife",
+      "offset_days": -2,
+      "offset_hours": 18,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "contact",
+      "content": "Of course. Take your time",
+      "offset_days": -2,
+      "offset_hours": 18,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "me",
+      "content": "We've decided to counter at $500K. Final offer",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "Let me think about it overnight",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 30
+    },
+    {
+      "sender": "me",
+      "content": "Of course, take your time",
+      "offset_days": -1,
+      "offset_hours": 12,
+      "offset_minutes": 35
+    },
+    {
+      "sender": "contact",
+      "content": "I accept! $500K it is",
+      "offset_days": 0,
+      "offset_hours": -2,
+      "offset_minutes": 0
+    },
+    {
+      "sender": "contact",
+      "content": "Looking forward to calling it home 🏠",
+      "offset_days": 0,
+      "offset_hours": -2,
+      "offset_minutes": 2
+    },
+    {
+      "sender": "contact",
+      "content": "Thank you! Michael is sending over the paperwork",
+      "offset_days": 0,
+      "offset_hours": -1,
+      "offset_minutes": 45
+    },
+    {
+      "sender": "me",
+      "content": "Congratulations Emily! We're so happy it's going to a good owner",
+      "offset_days": 0,
+      "offset_hours": -1,
+      "offset_minutes": 50
+    }
+  ]
+}
